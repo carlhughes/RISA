@@ -2,7 +2,7 @@
 
 ## Introduction
 
-These workflows are designed to be used inside custom widgets running Geocortex workflow. They provide a mechanism for users to submit proposed changes to the LRS network/
+These workflows are designed to be used inside custom widgets running Geocortex workflow. They provide a mechanism for users to submit proposed changes to the LRS network using the LRS Server extension in ArcGIS Server 
 
 The website is on GeoDOT at [RISA External](https://gis.massdot.state.ma.us/risa/) and [RISA Internal](https://gis.massdot.state.ma.us/risa_internal/).
 
